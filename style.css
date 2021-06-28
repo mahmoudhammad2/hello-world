@@ -10,3 +10,11 @@ align-items: center;
 margin: auto;
 background-color: aqua;
 }
+
+ h1,footer p {
+  background-color: red;
+ }
+
+ footer p {
+   padding: 1rem;
+ }
